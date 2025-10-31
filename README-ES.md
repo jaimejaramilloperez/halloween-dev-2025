@@ -11,3 +11,35 @@ Mis soluciones a los retos de [Halloween Dev](https://halloween.dev/) 2025 cread
 ## ✨ ¿Qué es Halloween Dev?
 
 Halloween Dev es una colección de retos de código para Halloween. ¡Pásatelo de miedo, aprende y mejora en programación!. Cada reto tiene una explicación del problema, instrucciones de cómo solucionarlo y sus correspondientes pruebas.
+
+## 🎮 Retos
+
+<table>
+  <thead>
+    <tr>
+      <th align="center" colspan="2">#</th>
+      <th align="center">Reto</th>
+      <th align="center">Nivel de dificultad</th>
+      <th align="center">Solution</th>
+    </td>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">01</td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/308faf21-0df8-4e80-ac41-662230929462" alt="reto #01" width="30" height="30" />
+      </td>
+      <td>
+        <a href="/src/challenge-01/README-ES.md"><strong>👹 La posesión del código</strong></a>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/9007c86f-e4e9-4deb-8ad1-4ba0531da86a" alt="easy" height=24 />
+      </td>
+      <td align="center">
+        <a href="/src/challenge-01/index.ts">
+          <img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
