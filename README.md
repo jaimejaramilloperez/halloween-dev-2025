@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://halloween.dev/en">
-    <img src="https://github.com/user-attachments/assets/6cf6ecc4-d87a-483e-a6c7-d5d95621ec56" />
+    <img src="https://github.com/user-attachments/assets/eb979bac-ed1e-44db-8b32-e25b45a59ad7" />
   </a>
 </div>
 
@@ -36,7 +36,7 @@ Halloween Dev is a collection of code challenges for Halloween. Have a spooky go
         <img src="https://github.com/user-attachments/assets/9007c86f-e4e9-4deb-8ad1-4ba0531da86a" alt="easy" height=24 />
       </td>
       <td align="center">
-        <a href="/src/challenge-01/index.js">
+        <a href="/src/challenge-01/index.ts">
           <img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
         </a>
       </td>
