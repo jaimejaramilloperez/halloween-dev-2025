@@ -4,7 +4,7 @@ Regan has been possessed and now speaks in a strange language 😱. Father Karra
 
 Your mission is to create a program that translates Regan's possessed messages into normal human language.
 
-For example:
+#### 📝 Examples
 
 ```ts
 const message = "i yojne gnihctaw uoy";

@@ -4,7 +4,7 @@ Regan ha sido poseída y ahora habla en un lenguaje extraño 😱. El padre Karr
 
 Tu misión es crear un programa que traduzca los mensajes poseídos de Regan al lenguaje humano normal.
 
-Por ejemplo:
+#### 📝 Ejemplos
 
 ```ts
 const message = "i yojne gnihctaw uoy";
