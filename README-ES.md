@@ -178,4 +178,5 @@ npm run challenge2 # reto 2
 npm run challenge3 # reto 3
 npm run challenge4 # reto 4
 npm run challenge5 # reto 5
+npm run challenge5 # reto 6
 ```
