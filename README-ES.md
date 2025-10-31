@@ -27,7 +27,7 @@ Halloween Dev es una colección de retos de código para Halloween. ¡Pásatelo 
     <tr>
       <td align="center">01</td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/308faf21-0df8-4e80-ac41-662230929462" alt="reto #01" width="30" height="30" />
+        <img src="https://github.com/user-attachments/assets/308faf21-0df8-4e80-ac41-662230929462" alt="reto #01" width="40" height="40" />
       </td>
       <td>
         <a href="/src/challenge-01/README-ES.md"><strong>👹 La posesión del código</strong></a>
@@ -37,6 +37,23 @@ Halloween Dev es una colección de retos de código para Halloween. ¡Pásatelo 
       </td>
       <td align="center">
         <a href="/src/challenge-01/index.ts">
+          <img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">02</td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/ba154044-e627-4f9f-8e6d-eaa1102fbae1" alt="reto #02" width="40" height="40" />
+      </td>
+      <td>
+        <a href="/src/challenge-02/README-ES.md"><strong>🐑 Cuenta las ovejas</strong></a>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/9007c86f-e4e9-4deb-8ad1-4ba0531da86a" alt="easy" height=24 />
+      </td>
+      <td align="center">
+        <a href="/src/challenge-02/index.ts">
           <img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
         </a>
       </td>
