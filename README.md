@@ -81,7 +81,7 @@ Halloween Dev is a collection of code challenges for Halloween. Have a spooky go
         <img src="https://github.com/user-attachments/assets/3d665bb8-7ec2-441b-9435-feb679c06385" alt="challenge #04" width="40" height="40" />
       </td>
       <td>
-        <a href="/src/challenge-04/README.md"><strong>🔪 Which is your favorite algorithm?</strong></a>
+        <a href="/src/challenge-04/README.md"><strong>👻 Which is your favorite algorithm?</strong></a>
       </td>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/f00a613a-7dbb-42f5-a73d-0efd96ef7f5d" alt="medium" height=24 />

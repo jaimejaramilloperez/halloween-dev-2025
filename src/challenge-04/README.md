@@ -1,4 +1,4 @@
-# 🔪 **Which is your favorite algorithm?**
+# 👻 **Which is your favorite algorithm?**
 
 Ring, ring… 📞
 
