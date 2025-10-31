@@ -12,8 +12,8 @@ Implement the function `searchPhone(phones, target)` using **BINARY SEARCH**
 
 ##### **Inputs:**
 
-- phones: Array of numbers sorted from lowest to highest (e.g., `[1001, 1002, 1005, 1008, ...]`)
-- target: Phone number you're looking for
+- `phones`: Array of numbers sorted from lowest to highest (e.g., `[1001, 1002, 1005, 1008, ...]`)
+- `target`: Phone number you're looking for
 
 ##### **Output:**
 

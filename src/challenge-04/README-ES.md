@@ -12,8 +12,8 @@ Implementa la función searchPhone(phones, target) usando **BÚSQUEDA BINARIA**
 
 ##### **Entradas:**
 
-- phones: Array de números ordenados de menor a mayor (ej: `[1001, 1002, 1005, 1008, ...]`)
-- target: Número de teléfono que buscas
+- `phones`: Array de números ordenados de menor a mayor (ej: `[1001, 1002, 1005, 1008, ...]`)
+- `target`: Número de teléfono que buscas
 
 ##### **Salida:**
 
