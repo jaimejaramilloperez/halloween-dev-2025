@@ -128,3 +128,54 @@ Halloween Dev es una colección de retos de código para Halloween. ¡Pásatelo 
     </tr>
   </tbody>
 </table>
+
+## Instalación y Ejecución
+
+### Requisitos Previos
+
+Asegúrate de tener instalado [**Node.js**](https://nodejs.org/) en tu sistema. Puedes verificar si Node.js está instalado ejecutando:
+
+```bash
+node -v
+```
+
+Esto debería mostrar la versión de Node.js instalada. Si no está instalado, descárgalo desde la [página oficial](https://nodejs.org/).
+
+> [!IMPORTANT]
+> La versión mínima de Node.js requerida es **22.18.0**, ya que la eliminación de tipos (type stripping) está habilitada por defecto, lo cual es necesario porque el proyecto ejecuta archivos TypeScript directamente con Node.
+
+Para ejecutar este proyecto en su máquina local, sigue los pasos que se indican a continuación:
+
+1. Clona el repositorio.
+
+```bash
+git clone https://github.com/jaimejaramilloperez/halloween-dev-2025.git
+```
+
+2. Navega al directorio del proyecto.
+
+```bash
+cd halloween-dev-2025
+```
+
+3. Instala las dependencias (opcional) usando el administrador de paquetes de tu preferencia (npm, pnpm, etc).
+
+```bash
+npm install
+```
+
+4. Ejecuta todas las pruebas con:
+
+```bash
+npm run challenges
+```
+
+O ejecuta las pruebas de cada reto con:
+
+```bash
+npm run challenge1 # reto 1
+npm run challenge2 # reto 2
+npm run challenge3 # reto 3
+npm run challenge4 # reto 4
+npm run challenge5 # reto 5
+```
