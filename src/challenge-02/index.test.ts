@@ -4,7 +4,7 @@ import assert from 'node:assert/strict';
 import { countSheep } from './index.ts';
 
 describe('Challenge #02 - 🐑 Count the sheep', () => {
-  it('Test #01 - Returns a string', () => {
+  it('Test #01 - Returns a number', () => {
     const result = countSheep('sheepxsheepy');
     assert.strictEqual(typeof result, 'number');
   });

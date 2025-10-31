@@ -4,7 +4,7 @@ import assert from 'node:assert/strict';
 import { myersCalendar } from './index.ts';
 
 describe('Challenge #03 - 🔪 It\'s Friday 13', () => {
-  it('Test #01 - Returns a string', () => {
+  it('Test #01 - Returns an array', () => {
     const result = myersCalendar(2025);
     assert.strictEqual(result.constructor.name, 'Array');
   });
