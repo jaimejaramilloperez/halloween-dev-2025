@@ -75,5 +75,22 @@ Halloween Dev es una colección de retos de código para Halloween. ¡Pásatelo 
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">04</td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/3d665bb8-7ec2-441b-9435-feb679c06385" alt="reto #04" width="40" height="40" />
+      </td>
+      <td>
+        <a href="/src/challenge-04/README-ES.md"><strong>🔪 ¿Cuál es tu algoritmo favorito?</strong></a>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/f00a613a-7dbb-42f5-a73d-0efd96ef7f5d" alt="medium" height=24 />
+      </td>
+      <td align="center">
+        <a href="/src/challenge-04/index.ts">
+          <img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
